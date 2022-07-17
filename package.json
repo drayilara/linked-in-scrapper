@@ -1,0 +1,16 @@
+{
+  "name": "linkedin-scrapper",
+  "version": "1.0.0",
+  "description": "\"A proxycurl job project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Ayilara Sodiq\"",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
