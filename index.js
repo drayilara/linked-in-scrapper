@@ -28,11 +28,9 @@ for(let pageNum = 0; pageNum < 1000; pageNum+=25){
     
                 linkedInJobs.push(jobs);         
         })
-
-       log(linkedInJobs)
        
     }).catch(err => {
-        console.log("ERROR : " + err.message);
+        log("ERROR : " + err.message);
     })
 }
 
